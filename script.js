@@ -1,0 +1,1 @@
+alert("Mon site fonctionne !");
